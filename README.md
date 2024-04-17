@@ -29,13 +29,13 @@ Content-Type: application/json
 ```
 
 
-Validate String
+#### Validate String
 
 You can also use the API to validate a string and check if it contains balanced parentheses. You can use the POST method to the /check-string endpoint. You must pass the string parameter containing the string you want to validate.
 
 
 
-Example Request
+#### Example Request
 ```
 POST /check-string
 Content-Type: application/json
@@ -46,7 +46,7 @@ Content-Type: application/json
 ```
 
 
-Expected Response
+#### Expected Response
 ```
 {
     "isValid": true
