@@ -23,7 +23,7 @@ Content-Type: application/json
 #### Expected Response
 ```
 {
-    "short_url": "https://short.url/abc123"
+    "short_url": "https://tinyurl.com/abc123"
 }
 
 ```
